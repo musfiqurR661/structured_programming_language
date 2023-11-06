@@ -18,6 +18,7 @@ int main()
         sum = ++i * j--;
     case 4:
         sum = i++ * j--;
+        //break;
     default:
         sum = 0;
         i = 0;
